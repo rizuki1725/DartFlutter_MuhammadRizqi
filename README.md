@@ -30,4 +30,5 @@ pada akhirnya, saya belum bisa melanjutkan pada tahap sambutan ketika berhasil l
 namun, saya merasa tertarik untuk memberikan bagaimana alur sebuah aplikasi itu berjalan
 
 Best Regards
+
 Muhammad Rizqi
